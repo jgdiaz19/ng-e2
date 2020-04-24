@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'pipes';
+  nombre = 'Jorge E Gonzalez Diaz';
+  personajes = ['Ironman', 'Spiderman', 'Thor', 'Loki', 'Groot', 'BlackEye', 'Hulk', 'Vision'];
+  PI = Math.PI;
 }
